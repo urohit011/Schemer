@@ -1,0 +1,114 @@
+body{
+    background: white;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    color: #F55F09;
+    overflow-y: hidden;
+}
+
+a{
+    display: block;
+    font-size: 16;
+    text-decoration: none;
+    width: auto;
+    color: #FFC04C;
+}
+
+a:hover, a:visited, a:focus, a:active{
+    text-decoration: none;
+    color: #FFC04C;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+    width: 100%;
+}
+
+li{
+    line-height: 40px;
+    text-indent: 20px;
+    width: 100%;
+}
+
+hr{
+    border-top: 3px solid lightcyan;
+}
+
+h2{
+    color: #FFC966;
+    padding-left: 30px;
+
+}
+
+pre{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.col-xs-3{
+    height: 100%;
+    border-right: 3px solid wheat;
+    overflow-y: scroll;
+}
+
+.col-xs-6{
+    height: 100%;
+}
+
+.apply{
+    background: #fb641b;
+    border: 1px solid orange;
+    color: white;
+    font-size: 23px;
+    font-weight: lighter;
+    width: 7em;
+    height: 2em;
+}
+
+.terminal_ID{
+    border: 1px solid orange;
+    font-size: 23px;
+    height: 2em;
+    width: 20em;
+    padding-left: 3px;
+}
+
+.preview{
+    overflow-x: hidden;
+    overflow-y: hidden
+}
+.active{
+    border: 2px solid #fb641b;
+}
+
+input::-webkit-input-placeholder{
+    font-size: 15px;
+    color: orange;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    height: 12px;
+}
+
+::-webkit-scrollbar-track{
+    border: 0px;
+}
+
+::-webkit-scrollbar-thumb{
+    border: 5px solid orange;
+}
+#row1{
+    height: 13%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#row1 .col-xs-3, #row1 .col-xs-6{
+    overflow-y: hidden;
+}
+
+#row2{
+    height: 87%;
+}

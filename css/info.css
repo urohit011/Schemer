@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    -webkit-app-region: drag;
+    color: pink;
+}
+
+table {
+    margin: auto;
+    margin-top: 20%;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.palette {
+    display: inline-block;
+    height: 40px;
+    width: 70px;
+    margin: 4px;
+    background-color: rgb(205, 151, 50);
+    vertical-align: top;
+    line-height: 40px;
+    text-align: center;
+    -webkit-app-region: no-drag;
+}
+.close{
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 25px;
+    color: red;
+    -webkit-app-region: no-drag;
+    cursor: pointer;
+}

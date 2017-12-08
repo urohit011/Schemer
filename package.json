@@ -1,0 +1,16 @@
+{
+  "name": "schemer",
+  "version": "1.0.0",
+  "description": "helps you easily access colorschemes from https://terminal.sexy and apply to gnome terminal ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rohit Upadhyay",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
