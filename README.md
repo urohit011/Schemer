@@ -1,6 +1,8 @@
 # Schemer
 
-Schemer lets you change colorscheme of your gnome terminal (Yes! only gnome terminal) vaery easily. Here are the following things it does
+![Screenshot] (./screenshot/schemer.png?raw=true)
+
+Schemer lets you change colorscheme of your gnome terminal (Yes! only gnome terminal) very easily. Here are the following things it does
 
 - Fetches numerous colorschemes available on https://terminal.sexy (an awesome project by [George Czabania]).
 - Shows you how the colorscheme would look on your gnome terminal.
