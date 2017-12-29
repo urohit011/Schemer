@@ -1,6 +1,6 @@
 # Schemer
 
-[![Screenshot] (./screenshot/schemer.png?raw=true)]
+[![Screenshot] (/screenshot/schemer.png?raw=true)]
 
 Schemer lets you change colorscheme of your gnome terminal (Yes! only gnome terminal) very easily. Here are the following things it does
 
